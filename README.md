@@ -1,5 +1,6 @@
-## 																							👏欢迎━(*｀∀´*)ノ亻!访问我的github		
-
+## 																							<div align="center">👏欢迎━(*｀∀´*)ノ亻!访问我的github		</div>
+<div align="center">
+	
 ​																															💖**前端**
 
 ​																														**:smirk_cat:性别：男**
@@ -10,7 +11,8 @@
 
 ​																													🐱‍💻**大二 @GDUT**
 
-​																										 		 :stuck_out_tongue:**爱好：:raised_hand:摸:fish:鱼**
+​																										 		  :stuck_out_tongue:**爱好：:raised_hand:摸:fish:鱼**
 
 
 
+</div>
