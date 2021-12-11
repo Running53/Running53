@@ -18,7 +18,7 @@
         </a>
     </div>
     <div align="center">
-	</br>
+	<br/>
 
 ​																														**💖前端**
 
@@ -29,6 +29,6 @@
 ​																										 		  :stuck_out_tongue:**爱好：:raised_hand:摸:fish:鱼**
 
 [![Learngit](https://github-readme-stats.vercel.app/api/pin?username=Running53&repo=learngit&theme=material-palenight)](https://github.com/Running53/learngit)
-</br>
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Running53&theme=material-palenight&show_icons=true)
 </div>
